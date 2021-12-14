@@ -1,0 +1,16 @@
+
+-- After running the E-prescription project
+-- open MySql Workbench
+-- paste the following lines and execute these queries
+
+
+use patientsdb;
+
+insert into drugs (name) values ("Depon");
+insert into drugs (name) values ("Panadol");
+insert into drugs (name) values ("Nurofen");
+insert into drugs (name) values ("Claritine");
+insert into drugs (name) values ("Controlloc");
+insert into drugs (name) values ("Aspirin");
+insert into drugs (name) values ("Zirtec");
+insert into drugs (name) values ("Augmentin");
